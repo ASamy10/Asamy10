@@ -17,11 +17,8 @@
 
 ## 🛠️ Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,opencv,sklearn&perline=7" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,azure,powerbi,git,github&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,opencv,sklearn,pandas,numpy,azure,powerbi,git,github&perline=13" />
 </p>
 
 ---
@@ -54,7 +51,7 @@
 
 ## 📫 Contact Me
 
-* 📧 [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 your-linkedin-link
+* 📧 [a7madmohsen.10@gmail.com](mailto:your-email@gmail.com)
+* 💼 [your-linkedin-link](https://www.linkedin.com/in/ahmedsamy-mo/)
 
 ---
