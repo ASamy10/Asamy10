@@ -17,8 +17,20 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,opencv,sklearn,pandas,numpy,azure,powerbi,git,github&perline=13" />
+<p align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=sql" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
@@ -51,7 +63,7 @@
 
 ## 📫 Contact Me
 
-* 📧 [a7madmohsen.10@gmail.com](mailto:your-email@gmail.com)
-* 💼 [your-linkedin-link](https://www.linkedin.com/in/ahmedsamy-mo/)
+* 📧 [Mail](mailto:a7madmohsen.10@gmail.com)
+* 💼 [Linkedin](https://www.linkedin.com/in/ahmedsamy-mo/)
 
 ---
