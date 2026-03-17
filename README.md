@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed
 
 💻 **Computer Engineer**
-🚀 Working Fields: **Computer Vision | Data Science | Data Analytics Engineering**
+🚀 **Computer Vision | Data Science | Data Analytics Engineering**
 🧠 Building intelligent systems from real-world data
 
 ---
@@ -16,37 +16,31 @@
 ---
 
 ## 🛠️ Languages and Tools
-<p align="left">
+
+<p>
   <img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,opencv,sklearn,pandas,numpy,azure,powerbi,git,github&perline=7" />
 </p>
+
 ---
 
 ## 📌 Featured Projects
 
-### 🧠 Brain Tumor Segmentation (Graduation Project)
+### 🧠 Brain Tumor Segmentation
 
 * 3D MRI segmentation using **KD-based model compression**
-* Improved **Dice Score & Hausdorff Distance** on BraTS
-
----
+* Improved **Dice Score & Hausdorff Distance**
 
 ### 🧬 3D Liver Segmentation
 
-* Deep learning model for **accurate medical image segmentation**
-
----
+* Deep learning model for **medical image segmentation**
 
 ### 🎣 Phishing Detection
 
-* Project for detecting **Malicious Emails**
-
----
+* ML-based detection of **malicious emails**
 
 ### 💬 Mental Healthcare Chatbot
 
-* NLP-based chatbot for **mental health support**
-
----
+* NLP chatbot for **mental health support**
 
 ### 🏗️ Data Engineering Internship – EJADA
 
@@ -57,7 +51,7 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: your-linkedin-link
+* 📧 [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 your-linkedin-link
 
 ---
