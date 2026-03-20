@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ahmed
 
 💻 **Computer Engineer**
+
 🚀 **Computer Vision | Data Science | Data Analytics Engineering**
+
 🧠 Building intelligent systems from real-world data
 
 ---
